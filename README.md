@@ -1,6 +1,6 @@
 # Tower Crane Wire Rope Health Monitoring System
 
-### Culture Code | Smart India Hackathon 2025
+### Culture Code | Smart India Hackathon 2026
 
 A low-cost, retrofit-first system for **continuous health monitoring of tower-crane hoist wire ropes**, designed to detect hidden deterioration, locate anomalies and track rope-health trends before failure.
 
